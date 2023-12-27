@@ -9,6 +9,10 @@ use css style sprites, available colors are
 - red
 - purple
 - violet
+- rednyellow
+- cyan
+- darkblue
+- gray
 
 
 create using `L.spriteIcon` and use with `L.marker` e.g.
